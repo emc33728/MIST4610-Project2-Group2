@@ -11,7 +11,7 @@
 
 ## Tableau Workbook
 
-"C:\Users\emcla\OneDrive\Documents\My Tableau Repository\Workbooks\mist proj 2.twbx"
+[@tableauworkbook](C:\Users\emcla\OneDrive\Documents\My Tableau Repository\Workbooks\mist proj 2.twbx)
 
 ## Dataset Description: 
 
