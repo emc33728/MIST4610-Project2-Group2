@@ -9,6 +9,7 @@
 3. Patel, Siddh [@srp8](https://github.com/srp8)
 4. Singh, Saachi [@Saachi715](https://github.com/Saachi715)
 
+
 ## Dataset Description: 
 
 With an interest in true crime and some of us with a background in law enforcement and psychology, our group chose to work with data from the National Missing and Unidentified Persons System(NamUs). NamUs is maintained through the National Institute of Justice to assist the National Missing Persons task force and has been the only national repository of unclaimed persons cases since 2005. Though over a 100,000 cases remain open at any given moment, our dataset includes only 10,000 of the most current and only cases of missing persons, not unidentified or unclaimed. The columns of the data include mostly demographic information useful to searching for specific persons or identifying people when found. Data such as age, race, and gender are the primary characteristics of each case, but information about where and when a case was first filed are available as well. For the purposes of our data analysis, we also use the column of date modified, or when the case was last updated. Each case is identified by a case number which is a string of numbers proceeded by letters. In the sample we use, each case also includes the missing person's name. 
